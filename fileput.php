@@ -16,7 +16,7 @@ if (isset($_POST['age'])){
     echo $age;
     // fopen("uploads/file.txt");
 
-    file_put_contents("uploads/file.txt",$age);
+    // file_put_contents("uploads/file.txt",$age);
 
 }
 
